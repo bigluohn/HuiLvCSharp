@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wU28j3OPD1072gDhKlEQOy0cDj6S8jo4BV2ONPsc8oIZDRL9lIaLkQ5Ynn7GMNcO+oiNE+CjlLeDws6vbK543A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luobi\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luobi\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512",
+    "C:\\Users\\luobi\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
